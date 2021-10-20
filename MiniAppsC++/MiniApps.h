@@ -8,7 +8,6 @@ class MiniApps
 public:
 	MiniApps();
 	virtual ~MiniApps();
-
 	static void keepCounting();
 	static void numberConversion();
 	static void upcConverter();

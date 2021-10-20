@@ -80,6 +80,7 @@ void MiniApps::keepCounting()
 	cout << "\n";
 
 }
+
 void MiniApps::numberConversion()
 {
 	cout << "Number Conversion\n";
@@ -139,6 +140,7 @@ void MiniApps::numberConversion()
 	}
 	cout << "\n\n";
 }
+
 void MiniApps::upcConverter()
 {
 
@@ -205,6 +207,7 @@ void MiniApps::upcConverter()
 
 
 }
+
 void MiniApps::upcChecker()
 {
 

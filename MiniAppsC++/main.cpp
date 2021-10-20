@@ -6,9 +6,7 @@ using namespace std;
 
 int main()
 {
-
 	int value;	
-
 	do {
 		cout << "Mini Apps\n";
 		cout << "---------\n";
@@ -31,6 +29,5 @@ int main()
 		default: cout << "Invalid input\n";
 		}
 	} while (value != 9);
-
 	return 0;
 }
